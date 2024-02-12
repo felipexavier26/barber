@@ -7,6 +7,8 @@ Barber é um site de barbeiro totalmente responsivo, <br> responsivo para todos 
 
 
 </div>
+<br>
+<br>
 
 
 
