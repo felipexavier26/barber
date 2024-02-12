@@ -10,8 +10,7 @@ Barber é um site de barbeiro totalmente responsivo, <br> responsivo para todos 
 <br>
 <br>
 
-<a href="[https://codewithsadee.github.io/barber/](https://barber-seven-liard.vercel.app/)" rel="nofollow"><strong>➥ Live</strong></a>
-
+<a href="https://codewithsadee.github.io/barber/" rel="nofollow"><strong>➥ Live Demo</strong></a>
 
 
 ![image](https://github.com/felipexavier26/barber/assets/103685054/4b658dcb-ec49-4b91-b5f3-8959a8a955e0)
