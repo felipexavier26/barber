@@ -3,8 +3,8 @@
 
 <h1>Barber - Barber Website </h1>
 <hr>
-Barber is a fully responsive barber website,
-Responsive for all devices, build using HTML, CSS, and JavaScript.
+Barber é um site de barbeiro totalmente responsivo, <br> responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
+
 
 </div>
 
